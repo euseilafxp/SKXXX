@@ -13,6 +13,10 @@ obra-prima
 arco-íris
 guarda-roupa
 guarda-copo
+ABRE-BOCA
+ABRE-ALAS
+LUZ-EM-CU
+ABRE-E-FECHA
 guarda-sol
 tra-la-la
 tra-la-las
