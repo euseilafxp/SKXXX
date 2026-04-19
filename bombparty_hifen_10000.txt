@@ -98,7 +98,6 @@ ganha-vida
 pao-duro
 pao-durismo
 banana-pao
-malha-pao
 pao-porcino
 além-fronteiras
 aquém-mar
