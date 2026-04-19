@@ -8,6 +8,9 @@ pintar
 pintado
 cite
 sopro
+shaft 
+shabbatot
+shabbat
 soprar
 pigmeu
 barau
